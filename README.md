@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying at Jacobs University Bremen
 - 💞️ I’m looking to collaborate on ideas and projects and also searching for jobs and interships
-- 📫 Reac me via email (drinsmakaj@hotmail.com)
+- 📫 Reach me via email (drinsmakaj@hotmail.com)
 
 <!---
 valdrin18/valdrin18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
