@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valdrin18
+- 👋 Hi, I’m Valdrin Smakaj
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying at Jacobs University Bremen
 - 💞️ I’m looking to collaborate on ideas and projects and also searching for jobs and interships
