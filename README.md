@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Valdrin Smakaj
-- 👀 I love programming
-- 🌱 I’m currently studying at Jacobs University Bremen
-- 💞️ I’m looking to collaborate on ideas and projects and also searching for jobs and interships
+
 - 📫 Reach me via email (drinsmakaj@hotmail.com)
 
 <!---
